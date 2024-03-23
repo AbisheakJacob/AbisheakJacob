@@ -1,4 +1,4 @@
-### Hi there 👋, I am Abisheak Jacob  
+# Hi there 👋, I am Abisheak Jacob  
 
 ---
 
@@ -11,6 +11,23 @@
 > My goal is to become a top leader in the analytics domain. I’m looking for opportunities to work with Deep Learning Models and Generative AI. 
 
 ---
+
+## 🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub logo" width="50" height="50" /> 
+
+---
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" /> 
+
+---
+
+## 📘Blog Articles
+
+➡️ [Predicting Customer Churn in the Banking Industry: A Deep Learning Approach](https://abisheakjacob.com/predicting-customer-churn-in-the-banking-industry-a-deep-learning-approach/)  
+➡️ [Unveiling Strategic Marketing Insights Through Advanced Data Analytics: A Deloitte Endeavor](https://abisheakjacob.com/unveiling-strategic-marketing-insights-through-advanced-data-analytics-a-deloitte-endeavor/)  
+➡️ [Unlocking Potential, One Mind at a Time – A Journey Towards Societal Transformation](https://abisheakjacob.com/unlocking-potential-one-mind-at-a-time-a-journey-towards-societal-transformation/)  
+➡️ [... more blog articles](https://abisheakjacob.com/blogs/)
 
 <!--
 **AbisheakJacob/AbisheakJacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
