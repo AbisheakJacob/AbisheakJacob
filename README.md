@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Optimization Research Analyst
 -----------------------------
 
-I am an Optimization Research Analyst who specializes in designing, developing, and deploying algorithms for the airline industry.   
+Hi, I’m Abisheak Jacob, a Project Management professional with experience in leading cross-functional teams and driving complex initiatives. I’m passionate about problem-solving, optimizing workflows, and delivering high-impact projects that contribute to business growth and operational efficiency.
 
-I’m passionate about Advanced Analytics, Artificial Intelligence, and Automation and I love to uncover the stories and patterns that the data holds. My interest in Analytics began when I was working as an Intern at Saint Gobain India. I found that I had a knack for working with numbers and deriving trends and insights from them. I therefore went into Business Analytics.   
+I’m currently working as Management Trainee - Purchasing Project Management at Bosch, India. I manage technical projects to meet quality, cost, and delivery targets throughout the product lifecycle, including PEP projects and change management with Ratio Project Planning. I have represented purchasing at the Executive Board Level and coordinated the product portfolio with the BU for EOL products. I have participated in Technical Supplier Discussions and provided supply market insights to strengthen negotiation position in material-related decisions.
 
-I am proficient in working with Python, PowerBI, SQL, and Google Operational Research Tools. I am adept in Data Analytics, Market Research, Optimization Modelling, Visualization, and Workflow Management. 
- 
- My goal is to become a top leader in the analytics domain. I’m looking for opportunities to work with Deep Learning Models and Generative AI.
+I had previously worked at Tata Insights and Quants, where I lead my team to create an optimization model for Airline Industry, in the area of Crew Scheduling. In this role, I oversee timelines, resource allocation, and coordination across teams to ensure timely completion of the project. Additionally, I bring experience from my time as a Sales and Marketing Intern at Saint Gobain, where I drove the Go-To-Market Strategy for the product Inspire Planilaque, honing my skills in stakeholder management and project execution.
+
+I’m skilled in tools like MS Excel, MS Project, SAP S/4HANA, Miro, etc. I am also adept in the use of Python, Tableau, Google Operations Research Tools, SQL, and AIMMS, and I thrive in environments that challenge me to blend technical expertise with effective project leadership. I’m always eager to learn and improve my skills, and I enjoy collaborating with diverse teams to turn strategic goals into actionable plans.
+
+My goal is to continue growing in the project management domain, focusing on optimizing processes and leading teams toward successful project delivery. If you’re interested in collaborating or learning more about my work, feel free to reach out.
+
+Thank you for visiting my profile, and I look forward to connecting soon!
 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [My Personal Website](http://abisheakjacob.com/)
