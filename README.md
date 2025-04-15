@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abisheak Jacob J
 ========================================================================================================================================
 
-Optimization Research Analyst
------------------------------
+Management Trainee - Purchasing Project Management
+---------------------------------------------------------------
 
 Hi, I’m Abisheak Jacob, a Project Management professional with experience in leading cross-functional teams and driving complex initiatives. I’m passionate about problem-solving, optimizing workflows, and delivering high-impact projects that contribute to business growth and operational efficiency.
 
