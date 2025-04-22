@@ -19,7 +19,8 @@ Thank you for visiting my profile, and I look forward to connecting soon!
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [My Personal Website](http://abisheakjacob.com/)
 * ✉️  You can contact me at [abisheakjacob0032@gmail.com](mailto:abisheakjacob0032@gmail.com)
-* 🚀  I'm currently working on **Airline Planning Problems (Crew Scheduling)**
+* 🎉  I am currently working on **Implementing Non-Linear Performance Pricing Program** within my department.
+* 🚀  I have worked on **Airline Planning Problems (Crew Scheduling)**
 * 🧠  I'm learning Recurrent Neural Networks (RNN)
 * 🤝  I'm open to collaborating on Deep Learning, Generative AI, and Automation
 * ⚡  I love watching documentaries.  
