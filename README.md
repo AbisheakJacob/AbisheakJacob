@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Management Trainee - Purchasing Project Management
 ---------------------------------------------------------------
 
-Hi, I’m Abisheak Jacob, a Project Management professional with experience in leading cross-functional teams and driving complex initiatives. I’m passionate about problem-solving, optimizing workflows, and delivering high-impact projects that contribute to business growth and operational efficiency.
+Hi, I’m Abisheak Jacob, a Project Management professional with 1.5 years of experience driving cross-functional technical projects in the automotive and tech space. I’m passionate about problem-solving, optimizing workflows, and delivering high-impact projects that contribute to business growth and operational efficiency.
 
 I’m currently working as Management Trainee - Purchasing Project Management at Bosch, India. I manage technical projects to meet quality, cost, and delivery targets throughout the product lifecycle, including PEP projects and change management with Ratio Project Planning. I have represented purchasing at the Executive Board Level and coordinated the product portfolio with the BU for EOL products. I have participated in Technical Supplier Discussions and provided supply market insights to strengthen negotiation position in material-related decisions.
 
